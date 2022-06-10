@@ -1,0 +1,32 @@
+* {
+    line-height: 1.5;
+}
+    
+    
+.jumbotron {
+    display: flex;
+    font-size: 40px;
+    background-color: #e84756;
+    color: white;
+    justify-content: center;
+    padding: 40px;
+    margin-bottom: 60px;
+    }
+    
+.card-header {
+    background-color: #0077F7;
+}    
+
+.card-body {
+    background-color: #F5F6F8;
+}
+    
+h2 {
+    color: white;
+    font-size: 24px;  
+}
+    
+h3 {
+    color: white;
+    font-size: 20px;
+}

@@ -1,0 +1,25 @@
+{
+  "name": "team-profile-generator",
+  "version": "1.0.0",
+  "description": "A project that uses Node.JS to generate a team roster given a user's input.",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/fusionneo/team-profile-generator.git"
+  },
+  "author": "fusionneo",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/fusionneo/team-profile-generator/issues"
+  },
+  "homepage": "https://github.com/fusionneo/team-profile-generator#readme",
+  "devDependencies": {
+    "jest": "^28.1.0"
+  },
+  "dependencies": {
+    "inquirer": "^8.2.4"
+  }
+}
